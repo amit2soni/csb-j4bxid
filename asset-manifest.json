@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://amit2soni.github.io/csb-j4bxid/static/js/main.47dc668b.chunk.js",
+    "main.js.map": "https://amit2soni.github.io/csb-j4bxid/static/js/main.47dc668b.chunk.js.map",
+    "runtime-main.js": "https://amit2soni.github.io/csb-j4bxid/static/js/runtime-main.2daf31d3.js",
+    "runtime-main.js.map": "https://amit2soni.github.io/csb-j4bxid/static/js/runtime-main.2daf31d3.js.map",
+    "static/js/2.966bd4c3.chunk.js": "https://amit2soni.github.io/csb-j4bxid/static/js/2.966bd4c3.chunk.js",
+    "static/js/2.966bd4c3.chunk.js.map": "https://amit2soni.github.io/csb-j4bxid/static/js/2.966bd4c3.chunk.js.map",
+    "index.html": "https://amit2soni.github.io/csb-j4bxid/index.html",
+    "static/js/2.966bd4c3.chunk.js.LICENSE.txt": "https://amit2soni.github.io/csb-j4bxid/static/js/2.966bd4c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2daf31d3.js",
+    "static/js/2.966bd4c3.chunk.js",
+    "static/js/main.47dc668b.chunk.js"
+  ]
+}
